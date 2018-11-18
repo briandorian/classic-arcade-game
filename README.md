@@ -19,9 +19,9 @@ In this game you have a Player and Enemies (bugs). The goal of the player is to 
 
 ## How to Run the game 
 
-Access to https://briandorian.github.io/ and start pressing the arrow keys to move. Once you have crossed the water, a modal will show congratulating you , you then only need to click on the backdrop or press ESC key. If you collide with a bug, the player will reappear at the initial position.  
+Access to https://briandorian.github.io/classic-arcade-game/ and start pressing the arrow keys to move. Once you have crossed the water, a modal will show congratulating you , you then only need to click on the backdrop or press ESC key. If you collide with a bug, the player will reappear at the initial position.  
 
 
-## Contributing
+## License
 
-This project is under MIT License. 
+This project is under MIT License. For more info, please check the LICENSE.md file. 
