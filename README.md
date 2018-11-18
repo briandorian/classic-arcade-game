@@ -3,11 +3,16 @@
 ## Table of Contents
 
 - [Instructions](#instructions)
-- [Contributing](#contributing)
+- [How to run the game](#How to run the game)
+- [License](#License)
 
 ## Instructions
 
-Basic Functionality
+<img src="/img/initialSetupGame.png"
+     alt="screenshot of the game"
+     style="float: left; margin-right: 10px;" /> 
+
+# Basic Functionality
 
 In this game you have a Player and Enemies (bugs). The goal of the player is to reach the water, without colliding into any one of the enemies.
 
@@ -17,7 +22,7 @@ In this game you have a Player and Enemies (bugs). The goal of the player is to 
   - Once the player reaches the water (i.e., the top of the game board), the game is won
   - Check out a quick video demo of the game in action below!
 
-## How to Run the game 
+## How to Run the game 
 
 Access to https://briandorian.github.io/classic-arcade-game/ and start pressing the arrow keys to move. Once you have crossed the water, a modal will show congratulating you , you then only need to click on the backdrop or press ESC key. If you collide with a bug, the player will reappear at the initial position.  
 
