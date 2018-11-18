@@ -1,4 +1,4 @@
-# Classic Arcade Game Clone Project
+# Classic Arcade Game Project
 
 ## Table of Contents
 
@@ -7,14 +7,21 @@
 
 ## Instructions
 
-Use this [rubric](https://review.udacity.com/#!/rubrics/2013/view) for self-checking your submission.
+Basic Functionality
 
-Make sure the functions you write are **object-oriented** - either class functions (like `Player` and `Enemy`) or class prototype functions such as `Enemy.prototype.checkCollisions`. Also make sure that the keyword `this` is used appropriately within your class and class prototype functions to refer to the object the function is called upon.
+In this game you have a Player and Enemies (bugs). The goal of the player is to reach the water, without colliding into any one of the enemies.
 
-Your **README.md** file should be updated with instructions on both how to 1. Run and 2. Play your arcade game.
+  - The player can move left, right, up and down using the arrow keys.  
+  - The enemies move at varying speeds on the paved block portion of the game board
+  - Once a the player collides with an enemy, the game is reset and the player moves back to the starting square
+  - Once the player reaches the water (i.e., the top of the game board), the game is won
+  - Check out a quick video demo of the game in action below!
 
-For detailed instructions on how to get started, check out this [guide](https://docs.google.com/document/d/1v01aScPjSWCCWQLIpFqvg3-vXLH2e8_SZQKC8jNO0Dc/pub?embedded=true).
+## How to Run the game 
+
+Access to https://briandorian.github.io/ and start pressing the arrow keys to move. Once you have crossed the water, a modal will show congratulating you , you then only need to click on the backdrop or press ESC key. If you collide with a bug, the player will reappear at the initial position.  
+
 
 ## Contributing
 
-This repository is the starter code for _all_ Udacity students. Therefore, we most likely will not accept pull requests.
+This project is under MIT License. 
