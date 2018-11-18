@@ -8,7 +8,7 @@
 
 ## Instructions & Basic Functionality
 
-<img src="/img/initialSetupGame.png"
+<img src="/images/initialSetupGame.png"
      alt="screenshot of the game"
      style="float: left; margin-right: 10px;" /> 
 
