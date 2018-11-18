@@ -6,13 +6,12 @@
 - [How to run the game](#How to run the game)
 - [License](#License)
 
-## Instructions
+## Instructions & Basic Functionality
 
 <img src="/img/initialSetupGame.png"
      alt="screenshot of the game"
      style="float: left; margin-right: 10px;" /> 
 
-# Basic Functionality
 
 In this game you have a Player and Enemies (bugs). The goal of the player is to reach the water, without colliding into any one of the enemies.
 
